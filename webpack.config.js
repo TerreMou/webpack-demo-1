@@ -12,7 +12,7 @@ module.exports = {
     filename: 'index.[contenthash].js',
   },
   plugins: [new HtmlWebpackPlugin({
-      title: 'frank',
+      title: 'Terre',
       template: 'src/assets/index.html'
     }
   )],
