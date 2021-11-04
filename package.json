@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@webpack-cli/serve": "^1.6.0",
     "css-loader": "^3.2.0",
     "dart-sass": "^1.23.7",
     "file-loader": "^5.0.2",
@@ -25,6 +26,6 @@
     "stylus-loader": "^3.0.2",
     "webpack": "4",
     "webpack-cli": "3",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^4.4.0"
   }
 }
